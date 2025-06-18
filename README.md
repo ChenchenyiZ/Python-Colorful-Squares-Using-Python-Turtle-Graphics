@@ -5,7 +5,7 @@
 This project uses Python's `turtle` graphics module to draw a row (or grid) of colorful squares. It demonstrates basic graphic programming, color management, and control flow.
 
 ## Demo
-![Colorful Squares Screenshot](screenshot.png)
+![Colorful Squares Screenshot](Screenshot%202025-06-16%20235158.png)
 
 ## Key Concepts
 - Python Turtle graphics
